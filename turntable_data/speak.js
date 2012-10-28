@@ -1,6 +1,6 @@
 {
    "command": "speak",
-   "userid": "4dea70c94fe7d0517b1a3519",
-   "name": "@richhemsley",
-   "text": "lol"
+   "userid": "50874b1feb35c174010000da",
+   "name": "@TheHodeSka",
+   "text": "Hey Hode, How are you today my creator"
 }
