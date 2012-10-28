@@ -1,7 +1,7 @@
-var Bot    = require('../index');
-var AUTH   = 'auth+live+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
-var USERID = 'xxxxxxxxxxxxxxxxxxxxxxxx';
-var ROOMID = 'xxxxxxxxxxxxxxxxxxxxxxxx';
+var Bot    = require('ttapi);
+var AUTH   = 'auth+live+LryxXvVGOAHKfNKtwaRNUlQP';
+var USERID = '50874b1feb35c174010000da';
+var ROOMID = '4e29cefc14169c27bf255fad';
 
 var bot = new Bot(AUTH, USERID, ROOMID);
 
